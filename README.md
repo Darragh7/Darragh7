@@ -1,4 +1,4 @@
-##Darragh O'Keeffe
+## Darragh O'Keeffe
 
 I build practical machine-learning systems and full-stack software. I graduated in Computer Science from University College Cork with a 2.1 overall and a First Class (1.1) dissertation, and I'm now studying for an MSc in AI & Data Science. Based in Cork, Ireland.
 
